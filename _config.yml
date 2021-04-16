@@ -104,7 +104,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Anqi3776/stellaliu2021.github.io.git
+  repo: https://github.com/anqi3776/stellaliu2021.github.io.git
 
 search:
   path: search.xml
